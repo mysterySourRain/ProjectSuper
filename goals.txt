@@ -1,0 +1,20 @@
+1. Register page  V
+    input => db 
+
+2. Login  V
+    input compare to db => retrieve account
+
+    password and email accessible but not firstname, lastname, and studentNum
+
+3. Class  V
+    send variable(course name) to the grades.php
+
+4. Account tab  V
+    present name and semester
+
+5. Profile
+    make db table => retrieve db data => represent on browser
+
+6. Instructor view
+
+date deadline
